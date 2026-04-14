@@ -24,8 +24,8 @@ I architect systems where **structured knowledge** meets **autonomous agency**. 
 ---
 
 ### 🎯 Current Trajectory
-Currently focusing on the **convergence of memory and agency**:
-- 🛠️ **LACP Evolution**: Scaling the Local Agent Control Plane to support multi-modal agent swarms with shared state.
+Currently focusing on the **deployment of autonomous cognitive loops**:
+- 🌀 **Flywheel Execution**: Scaling the $\text{Agentic Research Flywheel}$ to autonomously expand the frontier of the Second Brain.
 - 🧠 **Human Distillation**: Refining the pipeline for transforming tacit human expertise into structured, executable Agent Skills.
 - 🌐 **Cognitive Indexing**: Developing a high-efficiency semantic index for the "Second Brain" to minimize retrieval latency in complex RAG workflows.
 
@@ -63,6 +63,18 @@ $\text{Raw Data} \rightarrow \text{Structured Wiki} \rightarrow \text{LACP Orche
 ---
 
 ### 🚀 Strategic Projects
+
+#### 🌀 [Agentic Research Flywheel](https://github.com/alandevc8763/agentic-research-flywheel)
+**The Autonomous Intelligence Engine.**
+A closed-loop system designed to eliminate the "static decay" of knowledge bases. Instead of manual curation, it employs a continuous cognitive cycle:
+$\text{Gap Detection} \rightarrow \text{Deep-Dive Research} \rightarrow \text{High-Signal Distillation} \rightarrow \text{Automated Sync}$
+
+- **Gap Detection**: Proactively identifies missing links and conceptual voids in the knowledge graph.
+- **Deep-Dive**: Executes targeted, multi-step research trajectories across technical papers and repositories.
+- **Distillation**: Converts raw, unstructured data into high-fidelity Markdown entities using a rigid distillation protocol.
+- **Sync**: Seamlessly integrates curated findings into the Second Brain and `awesome-ai-discoveries`.
+
+This represents the transition from **Passive Curation** to **Active Intelligence Harvesting**.
 
 #### 🌟 [awesome-ai-discoveries](https://github.com/alandevc8763/awesome-ai-discoveries)
 **The Curated Map of AI Frontiers.** 
