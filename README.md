@@ -49,7 +49,7 @@ A high-signal repository distilling the noise of the AI explosion into actionabl
 
 ### 📈 Intelligence Metrics
 <p align="center">
-  <img src="https://github.com/alandevc8763/alandevc8763/blob/metrics/github-metrics.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/alandevc8763/alandevc8763/metrics/github-metrics.svg" width="100%" />
   <!-- Streak replaced by metrics -->
 </p>
 
