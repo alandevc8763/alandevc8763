@@ -23,6 +23,35 @@ I architect systems where **structured knowledge** meets **autonomous agency**. 
 
 ---
 
+### 🎯 Current Trajectory
+Currently focusing on the **convergence of memory and agency**:
+- 🛠️ **LACP Evolution**: Scaling the Local Agent Control Plane to support multi-modal agent swarms with shared state.
+- 🧠 **Human Distillation**: Refining the pipeline for transforming tacit human expertise into structured, executable Agent Skills.
+- 🌐 **Cognitive Indexing**: Developing a high-efficiency semantic index for the "Second Brain" to minimize retrieval latency in complex RAG workflows.
+
+---
+
+### 🏛️ Architecture Deep Dive
+<details>
+<summary><b>Explore the "Second Brain" Logic (Click to expand)</b></summary>
+<br>
+
+My approach to intelligence is centered around a tripartite ecosystem:
+
+1. **The Second Brain (Knowledge Layer)**
+   - A "Wiki as Codebase" implementation. Instead of static notes, it's a dynamic graph of entities and relations, allowing for incremental compilation of raw data into structured wisdom.
+
+2. **LACP - Local Agent Control Plane (Orchestration Layer)**
+   - The gateway that separates "Intent" from "Execution". LACP manages the lifecycle of specialized agents, ensuring a consistent cognitive state across different tasks.
+
+3. **Hermes Core (Execution Layer)**
+   - The agentic core that translates high-level goals into trajectories. Focused on tool-proficiency and self-correcting feedback loops.
+
+$\text{Raw Data} \rightarrow \text{Structured Wiki} \rightarrow \text{LACP Orchestration} \rightarrow \text{Agent Execution} \rightarrow \text{Feedback Loop} \rightarrow \text{Knowledge Evolution}$
+</details>
+
+---
+
 ### 🛠️ Technical Arsenal
 
 #### 🌐 Core Stack
@@ -37,7 +66,7 @@ I architect systems where **structured knowledge** meets **autonomous agency**. 
 
 #### 🌟 [awesome-ai-discoveries](https://github.com/alandevc8763/awesome-ai-discoveries)
 **The Curated Map of AI Frontiers.** 
-A high-signal repository distilling the noise of the AI explosion into actionable resources. Designed for builders who value depth over hype.
+A high-signal repository distilling the noise of the AI explosion into actionable resources. I prioritize **engineering depth** and **verifiable utility** over hype.
 
 #### 🏛️ The "Second Brain" Ecosystem
 *A private-first, agentic knowledge operating system.*
@@ -50,11 +79,10 @@ A high-signal repository distilling the noise of the AI explosion into actionabl
 ### 📈 Intelligence Metrics
 <p align="center">
   <img src="https://raw.githubusercontent.com/alandevc8763/alandevc8763/metrics/github-metrics.svg" width="100%" />
-  <!-- Streak replaced by metrics -->
 </p>
 
 <p align="center">
-  <!-- Top Langs replaced by metrics -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alandevc8763&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
