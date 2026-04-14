@@ -50,7 +50,7 @@ A high-signal repository distilling the noise of the AI explosion into actionabl
 ### 📈 Intelligence Metrics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alandevc8763&show_icons=true&theme=tokyonight&hide_border=true" alt="Alan's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alandevc8763&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=alandevc8763&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
