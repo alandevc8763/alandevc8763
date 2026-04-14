@@ -49,12 +49,12 @@ A high-signal repository distilling the noise of the AI explosion into actionabl
 
 ### 📈 Intelligence Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alandevc8763&show_icons=true&theme=tokyonight&hide_border=true" alt="Alan's Stats" />
-  <img src="https://github-readme-streak-stats.vercel.app/?user=alandevc8763&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github.com/alandevc8763/alandevc8763/blob/metrics/github-metrics.svg" width="100%" />
+  <!-- Streak replaced by metrics -->
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alandevc8763&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <!-- Top Langs replaced by metrics -->
 </p>
 
 ---
