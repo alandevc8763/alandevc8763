@@ -79,22 +79,8 @@ A high-signal repository distilling the noise of the AI explosion into actionabl
 ### 📊 Engineering Analytics
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">    <img src="https://github-profile-trophy.vercel.app/?username=alandevc8763&theme=tokyonight&column=7" alt="GitHub Trophies" />  </a>
+  <img src="https://raw.githubusercontent.com/alandevc8763/alandevc8763/metrics/github-metrics.svg" width="100%" alt="Engineering Metrics" />
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alandevc8763/alandevc8763/metrics/github-metrics.svg" width="100%" />
-</p>
-
-<p align="center">
-  <table border="0">
-    <tr>
-      <td><img src="https://github-readme-streak-stats.vercel.app/?user=alandevc8763&theme=tokyonight&hide_border=true" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alandevc8763&layout=compact&theme=tokyonight&hide_border=true" /></td>
-    </tr>
-  </table>
-</p>
-
 
 ---
 
