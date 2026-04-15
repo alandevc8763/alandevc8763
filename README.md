@@ -4,100 +4,43 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C600&center=true&vCenter=true&width=435&lines=Building+the+Second+Brain;Exploring+Agent-Native+Intelligence;Human+Distillation+Explorer;Curating+the+AI+Frontier" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/alandevc8763?tab=repositories"><img src="https://img.shields.io/badge/Focus-Knowledge%20Engineering-F7C600?style=for-the-badge&logo=openai&logoColor=white" /></a>
-  <a href="https://github.com/alandevc8763?tab=repositories"><img src="https://img.shields.io/badge/Architecture-LACP-F7C600?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
-  <a href="https://github.com/alandevc8763?tab=repositories"><img src="https://img.shields.io/badge/Philosophy-Digital%20Garden-F7C600?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
-</p>
+---
+
+### 🧠 Philosophy & Focus
+I am obsessed with the intersection of **Knowledge Engineering** and **Autonomous Agency**. I believe the future of intelligence lies not just in larger models, but in the **compounding of structured knowledge** and **closed-loop evolution**.
+
+- **Digital Gardening**: Implementing a "Wiki as Codebase" approach to build a persistent, interlinked Second Brain.
+- **Agent-Native Software**: Moving beyond "Chatbots" towards agents that possess their own memory, tools, and self-evolution mechanisms (LACP architecture).
+- **Human Distillation**: Exploring how to encapsulate human expertise into reusable, high-fidelity agent skills.
 
 ---
 
-### ⚡ Executive Summary
-I architect systems where **structured knowledge** meets **autonomous agency**. My work focuses on the transition from "stochastic parrots" to **Agent-Native Intelligence**—systems that evolve through closed-loop feedback and high-fidelity human distillation.
-
-| Core Competency | Expertise | Focus Area |
-| :--- | :--- | :--- |
-| **Knowledge Engineering** | $\text{LLM-Wiki} \rightarrow \text{Graph-RAG} \rightarrow \text{Semantic Memory}$ | Compounding Knowledge |
-| **Agent Orchestration** | $\text{LACP} \rightarrow \text{Tool Mastery} \rightarrow \text{Self-Evolution}$ | Autonomous Agency |
-| **Systems Design** | $\text{Wiki-as-Codebase} \rightarrow \text{Digital Gardening}$ | Cognitive Architecture |
-
----
-
-### 🎯 Current Trajectory
-Currently focusing on the **deployment of autonomous cognitive loops**:
-- 🌀 **Flywheel Execution**: Scaling the $\text{Agentic Research Flywheel}$ to autonomously expand the frontier of the Second Brain.
-- 🧠 **Human Distillation**: Refining the pipeline for transforming tacit human expertise into structured, executable Agent Skills.
-- 🌐 **Cognitive Indexing**: Developing a high-efficiency semantic index for the "Second Brain" to minimize retrieval latency in complex RAG workflows.
-
----
-
-### 🏛️ Architecture Deep Dive
-<details>
-<summary><b>Explore the "Second Brain" Logic (Click to expand)</b></summary>
-<br>
-
-My approach to intelligence is centered around a tripartite ecosystem:
-
-1. **The Second Brain (Knowledge Layer)**
-   - A "Wiki as Codebase" implementation. Instead of static notes, it's a dynamic graph of entities and relations, allowing for incremental compilation of raw data into structured wisdom.
-
-2. **LACP - Local Agent Control Plane (Orchestration Layer)**
-   - The gateway that separates "Intent" from "Execution". LACP manages the lifecycle of specialized agents, ensuring a consistent cognitive state across different tasks.
-
-3. **Hermes Core (Execution Layer)**
-   - The agentic core that translates high-level goals into trajectories. Focused on tool-proficiency and self-correcting feedback loops.
-
-$\text{Raw Data} \rightarrow \text{Structured Wiki} \rightarrow \text{LACP Orchestration} \rightarrow \text{Agent Execution} \rightarrow \text{Feedback Loop} \rightarrow \text{Knowledge Evolution}$
-</details>
-
----
-
-### 🛠️ Technical Arsenal
-
-#### 🌐 Core Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-#### 🧠 AI & Intelligence
-![Ollama](https://img.shields.io/badge/Ollama-white?style=for-the-badge&logo=ollama&logoColor=black) ![MkDocs](https://img.shields.io/badge/MkDocs-blue?style=for-the-badge&logo=docs&logoColor=white) ![Cortex](https://img.shields.io/badge/Cortex-AI-orange?style=for-the-badge) ![GraphRAG](https://img.shields.io/badge/GraphRAG-Structured-green?style=for-the-badge)
-
----
-
-### 🚀 Strategic Projects
-
-#### 🌀 [Agentic Research Flywheel](https://github.com/alandevc8763/agentic-research-flywheel)
-**The Autonomous Intelligence Engine.**
-A closed-loop system designed to eliminate the "static decay" of knowledge bases. Instead of manual curation, it employs a continuous cognitive cycle:
-$\text{Gap Detection} \rightarrow \text{Deep-Dive Research} \rightarrow \text{High-Signal Distillation} \rightarrow \text{Automated Sync}$
-
-- **Gap Detection**: Proactively identifies missing links and conceptual voids in the knowledge graph.
-- **Deep-Dive**: Executes targeted, multi-step research trajectories across technical papers and repositories.
-- **Distillation**: Converts raw, unstructured data into high-fidelity Markdown entities using a rigid distillation protocol.
-- **Sync**: Seamlessly integrates curated findings into the Second Brain and `awesome-ai-discoveries`.
-
-This represents the transition from **Passive Curation** to **Active Intelligence Harvesting**.
-
+### 🚀 Featured Work
 #### 🌟 [awesome-ai-discoveries](https://github.com/alandevc8763/awesome-ai-discoveries)
-**The Curated Map of AI Frontiers.** 
-A high-signal repository distilling the noise of the AI explosion into actionable resources. I prioritize **engineering depth** and **verifiable utility** over hype.
+A curated repository of high-value AI resources, tools, and breakthroughs. My attempt to map the rapidly evolving AI landscape.
 
-#### 🏛️ The "Second Brain" Ecosystem
-*A private-first, agentic knowledge operating system.*
-- **LACP (Local Agent Control Plane)**: A gateway architecture for managing specialized agents with shared cognitive state.
-- **Mission Control**: A cognitive dashboard for orchestrating complex knowledge flows.
-- **Hermes Core**: An execution engine focused on trajectory management and tool proficiency.
+#### 🛠️ The "Second Brain" Ecosystem (Internal/Private)
+- **Mission Control**: A frontend dashboard for knowledge orchestration.
+- **LACP (Local Agent Control Plane)**: A gateway/harness for managing a fleet of specialized agents.
+- **Hermes Agent**: An evolving execution core designed for long-term memory and tool mastery.
 
 ---
 
-### 📊 Engineering Analytics
+### 🛠️ Toolkit
+- **Languages**: `Python` `Rust` `TypeScript` `Markdown`
+- **Interests**: `LLM-Wiki` `RAG` `Digital Gardens` `Agentic Workflows` `Zettelkasten`
+- **Infrastructure**: `MkDocs` `Git` `Ollama` `Cortex`
 
+---
+
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alandevc8763/alandevc8763/metrics/github-metrics.svg" width="100%" alt="Engineering Metrics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alandevc8763&show_icons=true&theme=tokyonight" alt="Alan's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alandevc8763&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Collaboration-brightgreen?style=flat-square" />
-  <br>
-  <i>"The ultimate goal is not the storage of information, but the distillation of intelligence."</i>
+  <i>"The goal is not to store information, but to cultivate an evolving intelligence."</i>
 </p>
